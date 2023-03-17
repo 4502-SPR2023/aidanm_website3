@@ -1,0 +1,10 @@
+more CSS
+.text-holder {
+  width: 100%;
+}
+
+.location-holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
